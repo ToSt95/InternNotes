@@ -1,0 +1,5 @@
+KONFIGURACJA STANOWISKA PRACY:
+-instalacja systemów operacyjnych
+-konfiguracja Qt na Windows/Ubuntu
+-konfiguracja git
+-zapoznawanie sie z systemem pracy oraz narzedziami firmy (task manager, chat...)

@@ -1,0 +1,3 @@
+PIERWSZE ZADANIE
+-zapoznanie sie z wewnetrzna biblioteka MiloCodeBase
+-dodanie funkcjonalnosci do Mlog(elementu MDB)

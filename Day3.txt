@@ -1,0 +1,6 @@
+NOWY PROJETK
+-aplikacja pracujaca w systemie android,ubuntu,windows,raspberry pi
+-stworzenie interfersu graficznego w qml
+-stworzenie szkieletu aplikacji z wykorzystaniem milodatabase
+-configuracja CI (continous integration)
+-podlaczenie i pierwszy uruchomienie Rpi
